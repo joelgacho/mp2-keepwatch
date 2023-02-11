@@ -172,10 +172,11 @@
     border: 2px solid #212529;
     border-radius: 5px;
     display: flex;
+    
   }
   
   .title-price-x {
-    width: 195px;
+    width: 180px;
     padding-left: 20px ;
     display: flex;
     align-items: center;
